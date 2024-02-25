@@ -48,15 +48,16 @@ _Apps that showcase the power of the Frappe Framework_
 - [ERPNext](https://erpnext.com) - Open source full-featured business management system.
 - [Expenses](https://github.com/kid1194/erpnext_expenses) - An expenses management module for ERPNext.
 - [FiMax](https://github.com/YefriTavarez/fimax) - Loan Management and Repayment Scheduling for ERPNext.
+- [Frappe Education](https://github.com/frappe/education) - Open Source, Easy to Use, Education Management System.
 - [Frappe Helpdesk](https://frappedesk.com/) -  Well designed, open-source ticketing system.
 - [Frappe HR](http://frappehr.com/) - An Open Source HRMS for Frappe Ecosystem.
-- [Frappe Insights](https://github.com/frappe/insights) -  Free and Open Source Data Analytics Tool for your Frappe Apps
+- [Frappe Insights](https://github.com/frappe/insights) -  Free and Open Source Data Analytics Tool for your Frappe Apps.
 - [Gameplan](https://github.com/frappe/gameplan/) - Delightful, open-source, work communication tool for remote teams.
 - [Healthcare](https://github.com/frappe/healthcare) - An open source management system crafted for the medical industry.
 - [POS Awesome](https://github.com/yrestom/POS-Awesome) - An open-source Point of Sale for ERPNext using Vue.js and Vuetify.
 - [PropMS](https://github.com/aakvatech/PropMS) - Property Management Solution Powered on ERPNext by Aakvatech.
 - [Restaurant](https://github.com/quantumbitcore/erpnext-restaurant) - Restaurant App for ERPNext.
-- [School](https://github.com/frappe/school) - The Learning Management System (LMS) that powers [mon.school](https://mon.school) & [frappe.school](https://frappe.school).
+- [LMS](https://github.com/frappe/LMS) - The Learning Management System (LMS) that powers [mon.school](https://mon.school) & [frappe.school](https://frappe.school).
 - [ServiceMS](https://github.com/aakvatech/servicems) - Service Management System for ERPNext by Aakvatech.
 - [Stone Warehouse](https://github.com/finbyz/stonewarehouse) - Manage batch wise balance, especially setup for a ceramic tiles vendor.
 - [TailPOS](https://github.com/bailabs/tailpos) - Offline First Open Source POS for ERPNext.
